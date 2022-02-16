@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 8cc46c0d-df13-3162-fa26-412e09e30abd
 title: Final Writing Assignment
 uid: 05c1fd60-8e04-0cb3-37c5-70ff934b18bb
