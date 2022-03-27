@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 12: Aerospace and Computing in the 1960s, Lab Life in the 1970s, The
   Past Three Decades'
 uid: 48022cf6-16e7-ccae-bb0c-23fb1d6b185e

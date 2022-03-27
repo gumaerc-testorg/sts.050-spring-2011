@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 5: MIT and the corporate world in the age of big business, 1890-1930'
 uid: 3b1a67d0-ee69-842f-81a3-3293f04ca764
 video_files:

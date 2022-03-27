@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -11,6 +12,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Session 3: William Barton Rogers & The Foundational Years, 1861-1896'
 uid: 4942e3ea-eed7-b1f8-475f-18fe38a76d0b
 video_files:
