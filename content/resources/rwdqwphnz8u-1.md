@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/sts-050-the-history-of-mit-spring-2011/f51a3af854821b9e2cc487a48c6761cb_RwDQWPhNZ8U.pdf
+file: /courses/sts-050-the-history-of-mit-spring-2011/f51a3af854821b9e2cc487a48c6761cb_RwDQWPhNZ8U.pdf
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile

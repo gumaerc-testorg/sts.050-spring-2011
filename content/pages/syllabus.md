@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This syllabus section provides information on course meeting times,
+  textbook, requirements, and the schedule of lecture topics, guest speakers, and
+  assignment due dates. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

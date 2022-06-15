@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides videos of selected lecture sessions of the course.
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
@@ -34,7 +35,7 @@ SPEAKERS
 Introduction, Course Overview, What is Technology?
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 1: Introduction, Course Overview, What is Technology?]({{< baseurl >}}/resources/lecture-1)
+{{% resource_link ce29bc1d-e8d2-ffaa-d393-8196cc2f6380 "Session 1: Introduction, Course Overview, What is Technology?" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith, Karen Arensen
@@ -49,7 +50,7 @@ David Mindell, Merrit Roe Smith, Karen Arensen
 America in 1850: The Age of Transformation
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 2: America in 1850: The Age of Transformation]({{< baseurl >}}/resources/lecture-2)
+{{% resource_link 0a4362fb-896c-d318-29c5-3dc7fcf4420d "Session 2: America in 1850: The Age of Transformation" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith
@@ -64,7 +65,7 @@ David Mindell, Merrit Roe Smith
 William Barton Rogers & The Foundational Years, 1861–1896
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 3: William Barton Rogers & The Foundational Years, 1861-1896]({{< baseurl >}}/resources/lecture-3)
+{{% resource_link 4942e3ea-eed7-b1f8-475f-18fe38a76d0b "Session 3: William Barton Rogers & The Foundational Years, 1861-1896" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith
@@ -79,7 +80,7 @@ David Mindell, Merrit Roe Smith
 Harvard, MIT, and Building a New Campus
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 4: Harvard, MIT, and Building a New Campus]({{< baseurl >}}/resources/lecture-4)
+{{% resource_link a3ab9d03-0f69-6fc7-1774-78f3ba414ae9 "Session 4: Harvard, MIT, and Building a New Campus" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith, Mark Jarzombek
@@ -94,7 +95,7 @@ David Mindell, Merrit Roe Smith, Mark Jarzombek
 MIT and the Corporate World in the Age of Big Business, 1890–1930
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 5: MIT and the corporate world in the age of big business, 1890-1930]({{< baseurl >}}/resources/lecture-5)
+{{% resource_link 3b1a67d0-ee69-842f-81a3-3293f04ca764 "Session 5: MIT and the corporate world in the age of big business, 1890-1930" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith, Ross Bassett
@@ -109,7 +110,7 @@ David Mindell, Merrit Roe Smith, Ross Bassett
 World War I, the 1920s, and the 1930s
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 6: World War I, the 1920s, and the 1930s]({{< baseurl >}}/resources/lecture-6)
+{{% resource_link bb150cb4-8119-f1ad-2e16-d8b8a340a0e4 "Session 6: World War I, the 1920s, and the 1930s" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith, Rosalind Williams
@@ -169,7 +170,7 @@ There is no video for this session
 World War II and the Aftermath
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 10: World War II and the Aftermath]({{< baseurl >}}/resources/lecture-10)
+{{% resource_link c4bc9b69-20a4-85fa-d657-370f6b3a1511 "Session 10: World War II and the Aftermath" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith
@@ -184,7 +185,7 @@ David Mindell, Merrit Roe Smith
 Sputnik and the Cold War
 {{< tdclose >}}
 {{< tdopen >}}
-[0Session 11: Sputnik and the Cold War]({{< baseurl >}}/resources/lecture-11)
+{{% resource_link 8328c87c-e2c3-515e-b739-7cf54411db80 "0Session 11: Sputnik and the Cold War" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith
@@ -199,7 +200,7 @@ David Mindell, Merrit Roe Smith
 Aerospace and Computing in the 1960s, Lab Life in the 1970s, The Past Three Decades
 {{< tdclose >}}
 {{< tdopen >}}
-[Session 12: Aerospace and Computing in the 1960s, Lab Life in the 1970s, The Past Three Decades]({{< baseurl >}}/resources/lecture-12)
+{{% resource_link 48022cf6-16e7-ccae-bb0c-23fb1d6b185e "Session 12: Aerospace and Computing in the 1960s, Lab Life in the 1970s, The Past Three Decades" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 David Mindell, Merrit Roe Smith

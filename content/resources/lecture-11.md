@@ -1,10 +1,11 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
+end_time: '3961'
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
@@ -12,7 +13,7 @@ parent_type: CourseSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
+start_time: '1'
 title: '0Session 11: Sputnik and the Cold War'
 uid: 8328c87c-e2c3-515e-b739-7cf54411db80
 video_files:

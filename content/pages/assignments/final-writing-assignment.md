@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines and information on the final paper of
+  the course.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

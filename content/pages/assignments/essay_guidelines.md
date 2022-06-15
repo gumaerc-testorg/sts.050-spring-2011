@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides guidelines for preparing scholarly essays and example
+  footnotes.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
