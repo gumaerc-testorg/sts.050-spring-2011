@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides information on the first writing assignment of
+  the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 8cc46c0d-df13-3162-fa26-412e09e30abd
 title: First Writing Assignment
 uid: e5d434df-d5b5-8372-948a-4ecbeb373157

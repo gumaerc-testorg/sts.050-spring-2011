@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This page lists the reading assignments for each class session, including
+  the total number of pages to be read for that week.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 60910745-348b-4284-6dd5-a17958912748
 ---
@@ -75,7 +80,7 @@ William Barton Rogers & The Foundational Years, 1861–1896
 
 **\[Becoming MIT\]** pp. 20–47. Smith, Merritt Roe. "'Godspeed the Institute': The Foundational years, 1861–1894."
 
-Senate and House of Representatives of Massachusetts. 1861. "Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." _Acts of 1861, Chapter 183_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.mit.edu/corporation/charter.pdf))
+Senate and House of Representatives of Massachusetts. 1861. "Acts and Resolves of the General Court Relating to the Massachusetts Institute of Technology." _Acts of 1861, Chapter 183_. ([PDF](http://web.mit.edu/corporation/charter.pdf))
 
 Walker, Francis Amasa. "[Massachusetts Institute of Technology Annual Report](http://dome.mit.edu/handle/1721.3/62047)." Cambridge: University Press, 1894.
 

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides information on the writing assignments of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 8cc46c0d-df13-3162-fa26-412e09e30abd
 ---
@@ -16,8 +20,8 @@ Three of the eight reflection papers may also be written in response to attendin
 Writing Assignments
 -------------------
 
-[Guidelines for Preparing Scholarly Essays]({{< baseurl >}}/pages/assignments/essay_guidelines)
+{{% resource_link f66afd83-8bcc-cf43-2a13-f0969c8a3603 "Guidelines for Preparing Scholarly Essays" %}}
 
-[First Writing Assignment]({{< baseurl >}}/pages/assignments/first-writing-assignment)
+{{% resource_link e5d434df-d5b5-8372-948a-4ecbeb373157 "First Writing Assignment" %}}
 
-[Final Writing Assignment]({{< baseurl >}}/pages/assignments/final-writing-assignment)
+{{% resource_link 05c1fd60-8e04-0cb3-37c5-70ff934b18bb "Final Writing Assignment" %}}

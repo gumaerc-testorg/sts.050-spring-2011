@@ -1,6 +1,12 @@
 ---
 content_type: page
+description: This section provides guidelines for preparing scholarly essays and example
+  footnotes.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: 8cc46c0d-df13-3162-fa26-412e09e30abd
 title: Guidelines for Preparing Scholarly Essays
 uid: f66afd83-8bcc-cf43-2a13-f0969c8a3603
