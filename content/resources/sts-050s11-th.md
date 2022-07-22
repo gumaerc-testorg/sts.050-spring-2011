@@ -10,10 +10,10 @@ image_metadata:
   image-alt: A photograph of the Stata Center at MIT, with a red sculpture in the
     foreground.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Cropped image of The Stata Center at MIT
 uid: 0997387b-ba15-f2bc-2cff-b30e5a8c1a8f
 ---
 The Stata Center at MIT. Disney or MIT?, bettlebox on Flickr. CC-BY-NC-SA.
-

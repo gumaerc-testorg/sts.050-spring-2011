@@ -4,6 +4,7 @@ description: ''
 file: /courses/sts-050-the-history-of-mit-spring-2011/f89fdfb8cce8ec17b21ac0c93ae17143_hwQ8RThpXZ4.srt
 file_type: application/x-subrip
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
