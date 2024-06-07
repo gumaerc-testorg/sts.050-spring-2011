@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/sts-050-the-history-of-mit-spring-2011/6ea4162cc83158b9bb8a81d0674e8b89_Fw92I_zpmRU.vtt
+file_size: 168580
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
