@@ -17,7 +17,7 @@ Lectures: 1 session / week, 3 hours / session
 Textbook
 --------
 
-{{% resource_link "f91052b0-c22f-4c1a-a1d5-344a36dfc303" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Kaiser, David. {{% resource_link "f91052b0-c22f-4c1a-a1d5-344a36dfc303" "_Becoming MIT: Moments of Decision_" %}}. MIT Press, 2010. ISBN: 9780262113236.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262113236) Kaiser, David. [_Becoming MIT: Moments of Decision_](https://mitpress.mit.edu/9780262113236). MIT Press, 2010. ISBN: 9780262113236.
 
 Requirements
 ------------
@@ -112,7 +112,7 @@ KEY DATES
 Introduction, Course Overview, What is Technology?
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "bac10b6e-eaf4-4a49-8b4c-7f1b7e8d4a4f" "Karen Arenson" %}}
+[Karen Arenson](http://en.wikipedia.org/wiki/Karen_Arenson)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -157,7 +157,7 @@ William Barton Rogers & The Foundational Years, 1861-1896
 Harvard, MIT, and Building a New Campus
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "fa35b177-f497-4f47-b44e-35421711770f" "Mark Jarzombek" %}}
+[Mark Jarzombek](http://web.mit.edu/mmj4/www/)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -172,7 +172,7 @@ Harvard, MIT, and Building a New Campus
 MIT and the Corporate World in the Age of Big Business, 1890-1930
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "e6105c19-bd10-4b24-9cc4-5733001f7d31" "Ross Bassett" %}}
+[Ross Bassett](http://history.ncsu.edu/faculty/view/ross_bassett)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -187,7 +187,7 @@ MIT and the Corporate World in the Age of Big Business, 1890-1930
 World War I, the 1920s, and the 1930s
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "9d5bc683-7eb5-4860-9b18-065dd7a7d335" "Rosalind Williams" %}}
+[Rosalind Williams](http://web.mit.edu/~rhwill/www/)
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -199,7 +199,7 @@ World War I, the 1920s, and the 1930s
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Symposium: _{{% resource_link "85790415-957c-4d17-bad4-831b3f8e73a4" "Leaders in Science and Engineering: The Women of MIT" %}}_
+Symposium: _[Leaders in Science and Engineering: The Women of MIT](http://mit150.mit.edu/symposia/leaders-science-engineering.html)_
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -214,7 +214,7 @@ First writing assignment due
 8
 {{< tdclose >}}
 {{< tdopen >}}
-_Class Meets at {{% resource_link "8bc2e124-e587-43c6-83b0-ae2f32ad5654" "MIT Museum" %}}_
+_Class Meets at [MIT Museum](http://web.mit.edu/museum/)_
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -229,7 +229,7 @@ _Class Meets at {{% resource_link "8bc2e124-e587-43c6-83b0-ae2f32ad5654" "MIT Mu
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Symposium: _{{% resource_link "38ef164e-e0d8-4aa5-a590-2d681a3901b4" "Computation and the Transformation of Practically Everything" %}}_
+Symposium: _[Computation and the Transformation of Practically Everything](http://mit150.mit.edu/symposia/computation-transformation.html)_
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -244,7 +244,7 @@ Symposium: _{{% resource_link "38ef164e-e0d8-4aa5-a590-2d681a3901b4" "Computatio
  
 {{< tdclose >}}
 {{< tdopen >}}
-Special Event: {{% resource_link "66c5f952-9003-4ddf-82cf-98504b6b8810" "The Next Century Convocation" %}}
+Special Event: [The Next Century Convocation](https://mit150.mit.edu/convocation/)
 {{< tdclose >}}
 {{< tdopen >}}
  

@@ -5,8 +5,8 @@ file: /courses/sts-050-the-history-of-mit-spring-2011/0997387bba15f2bc2cffb30e5a
 file_size: 4548
 file_type: image/jpeg
 image_metadata:
-  caption: The Stata Center at MIT. (Disney or MIT?, {{% resource_link "f75b90ff-6b6c-42f5-aa1b-5cda4f2fa22d"
-    "bettlebox" %}} on Flickr. CC-BY-NC-SA.)
+  caption: The Stata Center at MIT. (Disney or MIT?, [bettlebox](http://www.flickr.com/photos/timony/108554696/)
+    on Flickr. CC-BY-NC-SA.)
   credit: Disney or MIT?, bettlebox on Flickr. CC-BY-NC-SA.
   image-alt: A photograph of the Stata Center at MIT, with a red sculpture in the
     foreground.
