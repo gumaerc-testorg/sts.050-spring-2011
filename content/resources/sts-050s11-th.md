@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: The Stata Center at MIT. Disney or MIT?, bettlebox on Flickr. CC-BY-NC-SA.
-file: /courses/sts-050-the-history-of-mit-spring-2011/0997387bba15f2bc2cffb30e5a8c1a8f_sts-050s11-th.jpg
+file: /ol-ocw-studio-app/courses/sts-050-the-history-of-mit-spring-2011/0997387bba15f2bc2cffb30e5a8c1a8f_sts-050s11-th.jpg
 file_size: 4548
 file_type: image/jpeg
 image_metadata:

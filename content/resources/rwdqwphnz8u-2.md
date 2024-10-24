@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/sts-050-the-history-of-mit-spring-2011/d2c32d9ab81a5c9c93e745c9ad5aff80_RwDQWPhNZ8U.vtt
+file: /ol-ocw-studio-app/courses/sts-050-the-history-of-mit-spring-2011/d2c32d9ab81a5c9c93e745c9ad5aff80_RwDQWPhNZ8U.vtt
 file_size: 162456
 file_type: application/x-subrip
 learning_resource_types: []
