@@ -122,7 +122,7 @@ David Mindell, Merrit Roe Smith, Rosalind Williams
 7
 {{< tdclose >}}
 {{< tdopen >}}
-**Symposium:** [Leaders in Science and Engineering: The Women of MIT](http://mit150.mit.edu/symposia/leaders-science-engineering.html)
+**Symposium:** {{% resource_link "1ece646b-493a-47bf-accf-47cb245f913f" "Leaders in Science and Engineering: The Women of MIT" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 There is no video for this session
@@ -137,7 +137,7 @@ There is no video for this session
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Class Meets at [MIT Museum](http://web.mit.edu/museum/)
+Class Meets at {{% resource_link "ade4dd68-a7db-43db-84ca-db99126061fa" "MIT Museum" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 There is no video for this session
@@ -152,7 +152,7 @@ There is no video for this session
 9
 {{< tdclose >}}
 {{< tdopen >}}
-**Symposium:** [Computation and the Transformation of Practically Everything](http://mit150.mit.edu/symposia/computation-transformation.html)
+**Symposium:** {{% resource_link "943cdf7a-df1a-4266-85e2-cc13828afb81" "Computation and the Transformation of Practically Everything" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 There is no video for this session
